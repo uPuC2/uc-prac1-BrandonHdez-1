@@ -53,6 +53,6 @@ int main()
   a ^= (1 << 8) ^ (0 << 3) ^ (1<<0);
   printf("\na = %X", a);
 
-    return 0;
+    return 0; 
 }
 
